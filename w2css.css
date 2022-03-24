@@ -1,0 +1,34 @@
+body{background-image:url("isro.png");
+color:#ffffff;
+background-repeat:no-repeat;
+background-attachment:fixed;
+background-position:center;
+font-family:"times new roman",times,serif;
+}
+h6{color:#ffa500;
+  text-align:center;
+  font-size:100px;
+  background-color:grey;}
+h2{font-size:35px;}
+p{font-size:30px;
+  margin-right:450px;}
+h3{font-size:40px}
+#img1{margin-left:600px;
+	height:300px;
+	width:400px;}
+#img1:hover{opacity:0.5;}
+#img2{opacity:0.5;}
+#img2:hover{opacity:1.0;}
+img.position1{position:absolute;
+	top:900px;
+	right:0px;}
+img.position2{position:absolute;
+	top:1450px;
+	right:0px;}
+img.position3{position:absolute;
+	top:1950px;
+	right:0px;}
+a:link{color:grey;}
+a:visited{color:red;}
+a:hover{color:yellow;}
+a:active{color:purple;}
